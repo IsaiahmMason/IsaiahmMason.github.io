@@ -1,0 +1,78 @@
+body{background-color: teal;
+margin:0px;}
+
+#headerOnIndex{
+    font-family: "Lucida Handwriting", cursive, sans-serif;
+    font-size: 250%;
+    text-align: center;
+}
+
+#headerOnJavaScripts{
+    font-family: "Lucida Handwriting", cursive, sans-serif;
+    text-align: center;
+}
+
+#buttonTable{
+    margin: 0 auto;
+    border-spacing: 0px 0px;
+    width: 800px;
+    padding: 0px;
+    padding-top: 0px;
+    background-color: rgb(161, 60, 228);
+}
+
+#buttonTable td {
+    text-align: center;
+}
+
+#buttonTable img {
+    display: block;
+    margin: 0 auto; 
+    width:180px;
+}
+
+#buttonContainer{
+    text-align: center;
+    margin:0 auto;
+}
+
+#bannerContainer{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    display:block;
+}
+
+#headerOnAboutMe{
+    font-family: "Lucida Handwriting", cursive, sans-serif;
+    text-align: center;
+}
+
+#contentContainer {
+    background-color: rgb(69, 197, 197);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#imgsAbtMe{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+#imgsAbtMe img {
+    float: left;
+    width: 100%;
+    height: auto; 
+    align-self: start;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    overflow: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
