@@ -76,3 +76,10 @@ p{
     margin-left: 10px;
     margin-right: 10px;
 }
+#raceJS{
+    display: flex;
+}
+#randomJS{
+    display: flex;
+    float: left;
+}
