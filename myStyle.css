@@ -78,8 +78,25 @@ p{
 }
 #raceJS{
     display: flex;
+    float:left;
 }
 #randomJS{
     display: flex;
     float: left;
+}
+#avatarJS{
+    display:flex;
+    float:left;
+}
+#avatarDanceFuncJS{
+    display:flex;
+    float:left;
+}
+#avatarFuncJS{
+    display:flex;
+    float:left;
+}
+#avatarRaceFuncJS{
+    display:flex;
+    float:left;
 }
