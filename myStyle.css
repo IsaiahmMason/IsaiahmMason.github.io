@@ -100,3 +100,11 @@ p{
     display:flex;
     float:left;
 }
+#followFunc{
+    display:flex;
+    float:left;
+}
+#decisionTreeFunc{
+    display:flex;
+    float:left;
+}
