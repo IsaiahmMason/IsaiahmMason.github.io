@@ -104,7 +104,8 @@ p{
     display:flex;
     float:left;
 }
-#decisionTreeFunc{
+#decisionTreeFunc, #danceFloorFunc #fortuneFunc{
     display:flex;
     float:left;
 }
+
